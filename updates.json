@@ -1,1 +1,194 @@
-{}
+{
+    "youtube": {
+        "app_version": "19.44.39",
+        "patches_version": "v5.3.1",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1737574146404,
+        "date_patched": "2025-01-22 19:29:06.404253+05:30",
+        "app_dump": {
+            "app_name": "youtube",
+            "app_version": "19.44.39",
+            "experiment": false,
+            "cli_dl": "https://github.com/inotia00/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/inotia00/revanced-patches/releases/latest-prerelease",
+            "exclude_request": [
+                "custom-branding-icon-youtube",
+                "custom-branding-name-youtube",
+                "enable-debug-logging",
+                "hide-fullscreen-button",
+                "custom-branding-icon-for-youtube",
+                "custom-branding-name-for-youtube"
+            ],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "0d2a23fb9ef1e59c91f16f35dac65a9b5f7032dae471da0de6dd23b57b3b2f0a.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "523e787b1c3a42d01f24829234475bc412d72f1dfed466cfb2940c246d0cee3c.rvp",
+                    "version": "v5.3.1"
+                }
+            },
+            "no_of_patches": 64,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "youtube.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=7940257&key=8c17ee42bd83cd981c5dd0eedf3d22a5f4dd5b55&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube/",
+            "package_name": "com.google.android.youtube",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "boost": {
+        "app_version": "1.12.9..210011209",
+        "patches_version": "v5.9.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1737574269759,
+        "date_patched": "2025-01-22 19:31:09.758699+05:30",
+        "app_dump": {
+            "app_name": "boost",
+            "app_version": "1.12.9..210011209",
+            "experiment": false,
+            "cli_dl": "https://github.com/inotia00/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "0d2a23fb9ef1e59c91f16f35dac65a9b5f7032dae471da0de6dd23b57b3b2f0a.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "bf83e5a9bf72263406ad993d14bd069794d556bb4f8c7027810d5f2b72c96fae.rvp",
+                    "version": "v5.9.0"
+                }
+            },
+            "no_of_patches": 4,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "boost.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=4916158&key=3e14676cd7fa208f8a9356dc4a93b148dd48b87b",
+            "download_source": "https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit/",
+            "package_name": "com.rubenmayayo.reddit",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "infinity": {
+        "app_version": "7.4.1..188",
+        "patches_version": "v5.9.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1737574288071,
+        "date_patched": "2025-01-22 19:31:28.070700+05:30",
+        "app_dump": {
+            "app_name": "infinity",
+            "app_version": "7.4.1..188",
+            "experiment": false,
+            "cli_dl": "https://github.com/inotia00/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "0d2a23fb9ef1e59c91f16f35dac65a9b5f7032dae471da0de6dd23b57b3b2f0a.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "bf83e5a9bf72263406ad993d14bd069794d556bb4f8c7027810d5f2b72c96fae.rvp",
+                    "version": "v5.9.0"
+                }
+            },
+            "no_of_patches": 2,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "infinity.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=7905466&key=5ca18c9bb868d17b2d2119764680f71a3fffee85",
+            "download_source": "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/",
+            "package_name": "ml.docilealligator.infinityforreddit",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "soundcloud": {
+        "app_version": "2025.01.07.release..280020",
+        "patches_version": "v5.9.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1737574311236,
+        "date_patched": "2025-01-22 19:31:51.236338+05:30",
+        "app_dump": {
+            "app_name": "soundcloud",
+            "app_version": "2025.01.07.release..280020",
+            "experiment": false,
+            "cli_dl": "https://github.com/inotia00/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "0d2a23fb9ef1e59c91f16f35dac65a9b5f7032dae471da0de6dd23b57b3b2f0a.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "bf83e5a9bf72263406ad993d14bd069794d556bb4f8c7027810d5f2b72c96fae.rvp",
+                    "version": "v5.9.0"
+                }
+            },
+            "no_of_patches": 3,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "soundcloud.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=8103402&key=5f0faeb683cc7cb269b3f3554b21f01e3129d221",
+            "download_source": "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/",
+            "package_name": "com.soundcloud.android",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "photos": {
+        "app_version": "7.13.0.716414472..49581942",
+        "patches_version": "v5.9.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1737574217349,
+        "date_patched": "2025-01-22 19:30:17.348874+05:30",
+        "app_dump": {
+            "app_name": "photos",
+            "app_version": "7.13.0.716414472..49581942",
+            "experiment": false,
+            "cli_dl": "https://github.com/inotia00/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "0d2a23fb9ef1e59c91f16f35dac65a9b5f7032dae471da0de6dd23b57b3b2f0a.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "bf83e5a9bf72263406ad993d14bd069794d556bb4f8c7027810d5f2b72c96fae.rvp",
+                    "version": "v5.9.0"
+                }
+            },
+            "no_of_patches": 3,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "photos.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=8178372&key=fa6f6d15473c15bf71396612a14db64a5290638a&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/photos/",
+            "package_name": "com.google.android.apps.photos",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    }
+}
